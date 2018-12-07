@@ -63,15 +63,18 @@ notification: |-
                 主题使用：<a href="https://github.com/shenliyang/hexo-theme-snippet/blob/master/README.md#常见问题" title="" target="_blank">常见使用问题</a> <br/>
                 支持主题：<a href="https://github.com/shenliyang/hexo-theme-snippet/stargazers">Star一下</a>
             </p>
+            <p>
+            <a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=nbgerpw3" target="_blank"><img src="http://snippet.shenliyang.com/img/aliyun_tj310.jpg"></a>
+            </p>
 
 ## 社交设置
 social:
  - name: Github
    icon: git
-   href: //github.com/shenliyang
+   href: //github.com/yaoliyc
  - name: 邮箱
    icon: envelope-o
-   href: mailto:snippet@91h5.cc
+   href: mailto:yaoliyc@gmail.com
  - name: 联系QQ
    icon: qq
    href: /
@@ -159,8 +162,8 @@ declaration:
 
 ## 文章打赏
 reward:
-  alipay: ''
-  wepay: '../img/reward-wepay.jpg'
+  alipay: 'https://res.cloudinary.com/dtb5wf4uh/image/upload/v1544161717/alipay.jpg'
+  wepay: 'https://res.cloudinary.com/dtb5wf4uh/image/upload/v1544161717/wechatpay.jpg'
   tip: 赞赏是不耍流氓的鼓励
 
 ## 主题评论
@@ -198,7 +201,7 @@ changyan:
 
 ## Valine评论
 valine:
-   enable: true
+   enable: false
    appId: xOKV9J4UeQAtVkvnJC7Kq2Jn-gzGzoHsz
    appKey: erIpQac4azoCmgfBB7Dl9maa
    placeholder: 说点什么吧
