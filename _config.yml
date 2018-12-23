@@ -8,15 +8,6 @@ menu:
 - page: home
   url: /
   icon:
-- page: 前端
-  url: /categories/前端/
-  icon:
-- page: 后端
-  url: /categories/后端/
-  icon:
-- page: 工具
-  url: /categories/工具/
-  icon:
 - page: 时间轴
   url: /archives/
   icon:
@@ -213,8 +204,8 @@ valine:
 
 ## 网站访客统计
 visit_counter:
-   site: false
-   page: false
+   site: true
+   page: true
 
 ## 网站访问统计分析
 
@@ -225,7 +216,7 @@ cnzz_analytics: 1263868967
 baidu_analytics:
 
 ### 谷歌统计
-google_analytics:
+google_analytics: true
 
 ### 腾讯分析
 tencent_analytics:
